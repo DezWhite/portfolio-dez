@@ -1,0 +1,19 @@
+body {
+  background-color: #140404;
+}
+
+h1 {
+  background-color: #bdecb9;
+}
+
+div {
+  background-color: #b4b2ec;
+}
+
+span {
+  background-color: #f18973;
+}
+
+div {
+  cursor: wait;
+}
